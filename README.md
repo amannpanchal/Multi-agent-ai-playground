@@ -98,7 +98,3 @@ git push -u origin main
 
 Update the maintainer link below after creating your GitHub repository:
 
-**Maintained by:** [Your Name](https://github.com/<your-username>)
-
-## Attribution and license
-
