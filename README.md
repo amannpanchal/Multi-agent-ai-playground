@@ -102,4 +102,3 @@ Update the maintainer link below after creating your GitHub repository:
 
 ## Attribution and license
 
-This project is adapted from [Radu Lepadatu's MCP AI Agents Template](https://github.com/Radulepy/mcp-ai-agents-template). Please retain appropriate attribution and check the upstream repository's license before redistributing or applying a license to your copy. No license file is included in this checkout.
